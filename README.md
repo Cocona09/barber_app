@@ -21,7 +21,7 @@ A modern web application for managing barbershop appointments, client bookings, 
 - Mobile-friendly responsive design
 
 ## 📂 Repository
-- **GitHub:** [github.com/Cocona09/barbershop](https://github.com/Cocona09/barbershop)
+- **GitHub:** [github.com/Cocona09/barbershop](https://github.com/Cocona09/barbershop_app)
 
 ## 🏗️ Setup Instructions
 
