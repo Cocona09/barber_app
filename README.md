@@ -9,8 +9,8 @@ A modern web application for managing barbershop appointments, client bookings, 
 *(Add screenshots after you write the README)*
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** PHP
+- **Frontend:** React, HTML, CSS, JavaScript
+- **Backend:** Laravel(Php)
 - **Database:** MySQL
 - **Other:** (Optional: Bootstrap, jQuery, etc.)
 
@@ -18,7 +18,6 @@ A modern web application for managing barbershop appointments, client bookings, 
 - Online appointment booking
 - Barber selection with profiles
 - Admin dashboard for management
-- Client database
 - Mobile-friendly responsive design
 
 ## 📂 Repository
