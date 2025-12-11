@@ -1,4 +1,4 @@
-# 💈 [Barbershop Name] Booking System
+# 💈 [barbershop-booking-platform] Booking System
 
 > A modern, full-stack web application for barbershop appointment management and client booking.
 
@@ -27,4 +27,8 @@
 - ✅ **Email/SMS Notifications** – Automated reminders
 - ✅ **Mobile Responsive** – Works on all devices
 
-## 📁 Project Structure
+## 📁 Project Structurebarbershop/
+├── frontend/ # React app
+├── backend/ # API server
+├── database/ # SQL files
+└── README.md
