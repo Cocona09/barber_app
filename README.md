@@ -1,34 +1,38 @@
-# 💈 [barbershop-booking-platform] Booking System
+# 💈 Barbershop Booking System
 
-> A modern, full-stack web application for barbershop appointment management and client booking.
+A modern web application for managing barbershop appointments, client bookings, and administrative tasks.
 
 ## 🚀 Live Demo
-[👉 Click here to try it live] (https://your-deployment-link.com)
-
-*(If not deployed yet, write: "Deployment in progress" or remove this section)*
+*Live demo coming soon! The application is fully functional locally.*
 
 ## 📸 Screenshots
-| Home Page | Booking Interface | Admin Dashboard |
-|-----------|-------------------|-----------------|
-| ![Home](https://via.placeholder.com/300x200/0088cc/ffffff?text=Home+Page) | ![Booking](https://via.placeholder.com/300x200/0088cc/ffffff?text=Booking) | ![Admin](https://via.placeholder.com/300x200/0088cc/ffffff?text=Dashboard) |
-
-*(Replace placeholder links with actual screenshot URLs - upload images to your repo in an `/images` folder)*
+*(Add screenshots after you write the README)*
 
 ## 🛠️ Tech Stack
-**Frontend:** React / HTML / CSS / JavaScript  
-**Backend:** [Node.js/PHP/Python - choose one]  
-**Database:** MySQL / MongoDB  
-**Other:** [Any APIs, libraries, tools]
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** PHP
+- **Database:** MySQL
+- **Other:** (Optional: Bootstrap, jQuery, etc.)
 
 ## ✨ Features
-- ✅ **Online Booking** – Customers can book appointments 24/7
-- ✅ **Barber Selection** – Choose preferred barber with profiles
-- ✅ **Admin Dashboard** – Manage appointments, clients, and services
-- ✅ **Email/SMS Notifications** – Automated reminders
-- ✅ **Mobile Responsive** – Works on all devices
+- Online appointment booking
+- Barber selection with profiles
+- Admin dashboard for management
+- Client database
+- Mobile-friendly responsive design
 
-## 📁 Project Structurebarbershop/
-├── frontend/ # React app
-├── backend/ # API server
-├── database/ # SQL files
-└── README.md
+## 📂 Repository
+- **GitHub:** [github.com/Cocona09/barbershop](https://github.com/Cocona09/barbershop)
+
+## 🏗️ Setup Instructions
+
+### Prerequisites
+- Web server (XAMPP, MAMP, or similar for PHP/MySQL)
+- PHP 7.4+
+- MySQL 5.7+
+
+### Installation Steps
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Cocona09/barbershop.git
+   cd barbershop
