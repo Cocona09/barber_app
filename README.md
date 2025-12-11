@@ -33,5 +33,5 @@ A modern web application for managing barbershop appointments, client bookings, 
 ### Installation Steps
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Cocona09/barbershop.git
-   cd barbershop
+   git clone https://github.com/Cocona09/barber_app.git
+   cd barber_app
