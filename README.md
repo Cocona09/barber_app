@@ -6,9 +6,9 @@ A modern web application for managing barbershop appointments, client bookings, 
 *Live demo coming soon! The application is fully functional locally.*
 
 ## 📸 Screenshots
-| Home Page | Booking System | Admin Panel |
-|-----------|---------------|-------------|
-| ![Home Page](./screenshots/Home.png) | ![Booking](./screenshots/appointment.png) | ![Admin](./screenshots/admin.png) |
+![Home Page](./screenshots/1-home.png)
+![Booking Page](./screenshots/2-booking.png)
+![Mobile View](./screenshots/3-mobile.png)
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, HTML, CSS, JavaScript
