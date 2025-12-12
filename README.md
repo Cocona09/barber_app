@@ -1,6 +1,6 @@
 # 💈 Barbershop Booking System
 
-A modern web application for managing barbershop appointments, client bookings, and administrative tasks.
+A modern web application for managing barbershop appointments, client bookings, and administrative tasks. Built with React frontend and Laravel backend.
 
 ## 🚀 Live Demo
 *Live demo coming soon! The application is fully functional locally.*
@@ -16,29 +16,33 @@ A modern web application for managing barbershop appointments, client bookings, 
 ![Admin](./screenshots/admin.png)
 
 ## 🛠️ Tech Stack
-- **Frontend:** React, HTML, CSS, JavaScript
-- **Backend:** Laravel(Php)
+- **Frontend:** React, HTML5, CSS3, JavaScript
+- **Backend:** Laravel (PHP 8.x)
 - **Database:** MySQL
-- **Other:** (Optional: Bootstrap, jQuery, etc.)
+- **API:** RESTful API with Laravel
 
 ## ✨ Features
-- Online appointment booking
-- Barber selection with profiles
-- Admin dashboard for management
-- Mobile-friendly responsive design
+- Online appointment scheduling with calendar
+- Barber profiles and selection
+- Admin dashboard for managing appointments
+- Customer database management
+- Responsive mobile-friendly design
+- User authentication (if implemented)
 
 ## 📂 Repository
-- **GitHub:** [github.com/Cocona09/barbershop](https://github.com/Cocona09/barber_app)
+- **GitHub:** [github.com/Cocona09/barber_app](https://github.com/Cocona09/barber_app)
 
 ## 🏗️ Setup Instructions
 
 ### Prerequisites
-- Web server (XAMPP, MAMP, or similar for PHP/MySQL)
-- PHP 7.4+
+- PHP 8.0+ with Composer
+- Node.js 16+ with npm
 - MySQL 5.7+
+- Git
 
 ### Installation Steps
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Cocona09/barber_app.git
-   cd barber_app
+
+#### 1. Clone Repository
+```bash
+git clone https://github.com/Cocona09/barber_app.git
+cd barber_app
