@@ -3,12 +3,17 @@
 A modern web application for managing barbershop appointments, client bookings, and administrative tasks. Built with React frontend and Laravel backend.
 
 ## 📸 Screenshots
+ **Home Page**
+ 
+![Home](./screenshots/Home.png)
 
-| Page | Preview | Description |
-|------|---------|-------------|
-| **Home Page** | <img src="./screenshots/Home.png" width="600" height="600px"> | Welcome page with services and navigation |
-| **Appointment Booking** | <img src="./screenshots/appointment.png" width="600" height="600px"> | Customer booking form with calendar |
-| **Admin Dashboard** | <img src="./screenshots/admin.png" width="600" height="600px"> | Management panel for appointments |
+**Appointment Booking**
+
+![Booking](./screenshots/appointment.png)
+
+**Admin Dashboard**
+
+![Admin](./screenshots/admin.png)
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, HTML5, CSS3, JavaScript
