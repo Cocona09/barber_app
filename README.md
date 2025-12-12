@@ -7,10 +7,10 @@ A modern web application for managing barbershop appointments, client bookings, 
 
 ## 📸 Screenshots
 **Home Page**
-![Home](./screenshots/Home.png)
+![Home](./screenshots/Home.png){: width="600"}
 
 **Appointment Booking**
-![Booking](./screenshots/appointment.png)
+![Booking](./screenshots/appointment.png){: width="600"}
 
 **Admin Dashboard**
 ![Admin](./screenshots/admin.png)
